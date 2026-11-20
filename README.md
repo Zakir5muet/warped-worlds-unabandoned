@@ -2,7 +2,7 @@
 Build patch files are available in /builds/. You will need a patcher program and a US rom of SM64. Changelogs are not available between builds, but approximate dates are provided.
 
 # Source Code
-Source code is available in /src/. You will need a US rom of SM64. My code is reaaaally messy, since I've worked on this since I first started learning C. Everything should work fine though.
+Source code is available in /src/. You will need a US rom of SM64. Everything should work fine.
 
 # Credits
 ```
